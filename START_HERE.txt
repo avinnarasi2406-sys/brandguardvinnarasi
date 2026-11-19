@@ -1,0 +1,16 @@
+BRANDGUARD AI — START HERE
+
+1. Install Node.js 18 or newer from https://nodejs.org/ if Node is not installed.
+2. Extract this folder to your computer.
+3. Double-click start.bat, or open a terminal in this folder and run: npm start
+4. Open http://localhost:3000 in Chrome.
+5. Review the sample draft, approve/request changes, and open Review Queue.
+6. Open Team workspace to save an assignment and comment.
+7. Check server health at http://localhost:3000/api/health
+
+IMPORTANT:
+- localhost is only your computer, not a public submission link.
+- This is a rules-based demo, not LLM/AI-powered context reasoning.
+- No CMS is connected.
+- Team activity is server-persisted but has no login or role security. Use demo data only.
+- You still need to deploy to a Node.js host and verify its public URL before submitting a live link.
